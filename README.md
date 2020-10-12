@@ -9,10 +9,15 @@ Requirements:
 There are several Python libraries that will need to be installed via something like pip (e.g "pip install attackcti"):
 
 attackcti
+
 requests
+
 json
-pandas 
+
+pandas
+
 numpy
+
 xlsxwriter
 
 Included notebooks are:
